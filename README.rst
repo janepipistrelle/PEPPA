@@ -1,6 +1,6 @@
 
 About PEPPA
-PEPPA (Phylogeny Enhanced Pipeline for PAn-genome) is a pipeline that can construct a pan-genome from thousands of genetically diversified bacterial genomes. PEPPA implements a combination of tree- and synteny-based approaches to identify and exclude paralogous genes, as well as similarity-based gene predictions that support consistent annotations of genes and pseudogenes in individual genomes.
+PEPPA (Phylogeny Enhanced Pipeline for PAn-genome) is a pipeline that can construct a pan-genome from thousands of genetically diverse bacterial genomes (up to and above genus level). PEPPA implements a combination of tree- and synteny-based approaches to identify and exclude paralogous genes, as well as similarity-based gene predictions that support consistent annotations of genes and pseudogenes in individual genomes.
 
 Citation
 If you use GrapeTree please cite the pre-print in BioRxiv:
